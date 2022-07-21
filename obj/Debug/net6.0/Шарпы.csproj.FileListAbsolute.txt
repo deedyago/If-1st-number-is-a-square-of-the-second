@@ -1,0 +1,15 @@
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\Шарпы.csproj.AssemblyReference.cache
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\Шарпы.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\Шарпы.AssemblyInfoInputs.cache
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\Шарпы.AssemblyInfo.cs
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\Шарпы.csproj.CoreCompileInputs.cache
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\bin\Debug\net6.0\Шарпы.exe
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\bin\Debug\net6.0\Шарпы.deps.json
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\bin\Debug\net6.0\Шарпы.runtimeconfig.json
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\bin\Debug\net6.0\Шарпы.dll
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\bin\Debug\net6.0\Шарпы.pdb
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\Шарпы.dll
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\refint\Шарпы.dll
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\Шарпы.pdb
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\Шарпы.genruntimeconfig.cache
+D:\Разработчик\ИНТЕНСИВ\ДЗ\Шарпы\obj\Debug\net6.0\ref\Шарпы.dll
